@@ -1,0 +1,44 @@
+{
+  "productData": [
+    {
+      "id": "101",
+      "title": "title1",
+      "price": 100,
+      "color": "Red",
+      "quantity": 10,
+      "isEdited": false
+    },
+    {
+      "id": "102",
+      "title": "title2",
+      "price": 200,
+      "color": "Green",
+      "quantity": 20,
+      "isEdited": false
+    },
+    {
+      "id": "103",
+      "title": "title3",
+      "price": 300,
+      "color": "Yellow",
+      "quantity": 30,
+      "isEdited": false
+    },
+    {
+      "id": "104",
+      "title": "title4",
+      "price": 400,
+      "color": "Pink",
+      "quantity": 40,
+      "isEdited": false
+    },
+    {
+      "id": "105",
+      "title": "title5",
+      "price": 300,
+      "color": "Black",
+      "quantity": 50,
+      "isEdited": false
+    }
+  ]
+}
